@@ -1,6 +1,6 @@
 // 28. Program using do-while to print number series.
 
-
+// Even number series using do-whille
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,5 @@
 // 27. Program using while loop to print table.
 
-
 #include <iostream>
 using namespace std;
 

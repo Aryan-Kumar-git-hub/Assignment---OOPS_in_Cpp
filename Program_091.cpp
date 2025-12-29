@@ -1,0 +1,25 @@
+// 91. Program showing constructor order in inheritance.
+
+#include <iostream>
+using namespace std;
+
+// Base class
+class Base {
+public:
+    Base() {
+        cout << "Base class constructor called" << endl;
+    }
+};
+
+// Derived class
+class Derived : public Base {
+public:
+    Derived() {
+        cout << "Derived class constructor called" << endl;
+    }
+};
+
+int main() {
+    Derived obj;
+    return 0;
+}
