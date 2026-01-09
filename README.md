@@ -1,7 +1,14 @@
-# Assignment - OOPS in C++ programs
+# Assignment – OOPS in C++
 
-Name                    =   Aryan kumar
-Course                  =   B.tech (CSE)
-University roll no.     =   24292127
-Class roll no.          =   15
-Section                 =   3A
+## Student Details
+- **Name:** Aryan Kumar  
+- **Course:** B.Tech (CSE)  
+- **University Roll No.:** 24292127  
+- **Class Roll No.:** 15  
+- **Section:** 3A  
+- **Subject:** C++  
+
+## How to Run the Programs
+1. Install **MinGW** (C++ compiler)
+2. Open the program in any code editor
+3. Compile and run the `.cpp` files
