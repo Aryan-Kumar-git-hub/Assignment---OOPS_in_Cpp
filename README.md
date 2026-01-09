@@ -2,7 +2,6 @@
 This repository contains C++ Object-Oriented Programming programs submitted as part of a graded assignment.
 
 ## Student Details
-## Student Details
 - **Name:** Aryan Kumar  
 - **Course:** B.Tech (CSE)  
 - **University Roll No.:** 24292127  
