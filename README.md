@@ -1,5 +1,7 @@
 # Assignment – OOPS in C++
+This repository contains C++ Object-Oriented Programming programs submitted as part of a graded assignment.
 
+## Student Details
 ## Student Details
 - **Name:** Aryan Kumar  
 - **Course:** B.Tech (CSE)  
